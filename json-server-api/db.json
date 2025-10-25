@@ -6,7 +6,9 @@
       "img_name": "Futuristic City",
       "img_description": "Cyberpunk skyline with neon lights",
       "is_it_saved": true,
-      "prompt": "A futuristic city skyline with neon lights"
+      "prompt": "A futuristic city skyline with neon lights",
+      "popular":"true"
     }
   ]
 }
+
